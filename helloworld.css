@@ -1,0 +1,19 @@
+body {
+  background-color: pink;
+}
+  
+#submit {
+  background: red;
+
+}
+  
+#answer {
+  background: light gray;
+  margin-top: 60px;
+}
+
+.text {
+  clear: none;
+  width: 600px;
+  background-color: rgb(172, 81, 172);
+}
