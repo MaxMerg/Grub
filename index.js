@@ -1,10 +1,3 @@
-//hey ry
-//i love ya you nerd
-
-
-
-
-
 //screens and questions
 var screen = 0; 
 
